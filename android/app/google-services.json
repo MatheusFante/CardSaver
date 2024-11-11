@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "939531561317",
+    "project_id": "cardsaver-ec5f1",
+    "storage_bucket": "cardsaver-ec5f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939531561317:android:430824a7b4a7edb733d98c",
+        "android_client_info": {
+          "package_name": "com.example.card_scan_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeXEbPLNTgkGr4oEPOJFILeorubbHueok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
